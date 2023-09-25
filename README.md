@@ -1,0 +1,1 @@
+This is supposed to parse the input of a list. It just detects if it is a number and outputs it
